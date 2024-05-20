@@ -1,3 +1,8 @@
+# This is the code for publishing node 
+# It initiates a rosnode talker which Publishes integer data to a rostopic called Chatter 
+
+
+
 #!/usr/bin/env python3
 
 import rospy 
