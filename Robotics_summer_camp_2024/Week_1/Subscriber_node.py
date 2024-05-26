@@ -1,20 +1,21 @@
 # It creates a rosnode, named listner, which subscibes data from a chatter rostopic.  
 
 
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
-import rospy 
+import rospy
 from std_msgs.msg import String
-from std_msgs.msg import Int32 
 
 def callback(data):
-	rospy.loginfo("Communication is working smoothly! Ping no. %d", data.data)
-	
+    rospy.loginfo("I heard %s", data.data)
+
 def listener():
-	rospy.init_node('listner', anonymous = True)
-	rospy.Subscriber('chatter', Int32, callback)
-	rospy.spin()
-	
+    rospy.init_node('listener', anonymous=True)
+    rospy.Subscriber('chatter', String, callback)
+    # Keep the node running until it is stopped
+    rospy.spin()
+
 if __name__ == '__main__':
-	listener()
+    listener()
+
 	
