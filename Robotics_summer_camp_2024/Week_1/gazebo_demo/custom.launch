@@ -19,7 +19,7 @@
   <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf"  args="-urdf -model turtlebot3_$(arg model) -x $(arg x_pos) -y $(arg y_pos) -z $(arg z_pos) -param robot_description" />
 </launch>
 
-# to launch gazebo with custom world only line 9: is to be changed
-# earlier it  was: <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/turtlebot3_world.world"/>
-# I chaged it to: <arg name="world_name" value="$(find gazebo_demo)/urdf/robo.world"/>
-#the resultant world image is there in readme file with name custom_world 
+// to launch gazebo with custom world only line 9: is to be changed
+// earlier it  was: <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/turtlebot3_world.world"/>
+// I chaged it to: <arg name="world_name" value="$(find gazebo_demo)/urdf/robo.world"/>
+// the resultant world image is there in readme file with name custom_world 
