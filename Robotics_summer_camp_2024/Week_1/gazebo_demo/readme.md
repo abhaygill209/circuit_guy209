@@ -3,11 +3,16 @@ moving the bot using keyboard<br/>
 ![Screenshot from 2024-05-25 19-57-15](https://github.com/abhaygill209/circuit_guy209/assets/146229446/9cfdaf15-1b63-471a-ae04-3de3bcfba335)
 
 
+https://github.com/abhaygill209/circuit_guy209/assets/146229446/bf6ef39e-9c5c-4dbd-9e6f-1bb19beb9ebb
 
-https://github.com/abhaygill209/circuit_guy209/assets/146229446/a3e0c1dd-6615-41a9-bf09-871e50ecd8ac
+
 
 <-------------------------Moving in square-------------------------------------------------------------><br/>
-https://github.com/abhaygill209/circuit_guy209/assets/146229446/51020322-057f-4fab-98cf-4e92e6887715
+
+
+https://github.com/abhaygill209/circuit_guy209/assets/146229446/dc95bcd1-b3e8-42ff-8a51-07895caabbfa
+
+
 
 
 
