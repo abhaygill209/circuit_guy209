@@ -32,4 +32,7 @@ While on the demo run the running topics were:<br/>
 the lidar which we are using publishers the point cloud data to topic /ouster/points. 
 in the demo run of the patchworkpp package I was not able to visualize any data in rviz point cloud visualizer. That is most probably because the nodes in the package are not subscribed to the correct topic i.e. /ouster/points. 
 thus my task now is figure out the nodes and change their subscribed topics to /ouster/points.
+<br/>
+Another approach: https://github.com/lorenwel/linefit_ground_segmentation
+
 
