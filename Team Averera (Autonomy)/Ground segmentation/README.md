@@ -8,5 +8,6 @@ using this I was able to segment out my ground and non-ground points of lidar-po
 
 
 
-https://github.com/user-attachments/assets/ad0646bf-d896-4748-825d-435168b9aaec
+https://github.com/user-attachments/assets/ad0646bf-d896-4748-825d-435168b9aaec</br>
+I have also attached tha parameter file which worked for me. 
 
