@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- Start gmapping -->
+    <node name="slam_gmapping" pkg="gmapping" type="slam_gmapping" output="screen">
+        <!-- Parameters for gmapping -->
+        <param name="base_frame" value="husky_robot_model__base_link"/>
+        <param name="odom_frame" value="odom"/>
+        <remap from="scan" to="laser/scan"/>
+        <param name="map_update_interval" value="5.0"/>
+        <!-- Other parameters as needed -->
+    </node>
+</launch>
