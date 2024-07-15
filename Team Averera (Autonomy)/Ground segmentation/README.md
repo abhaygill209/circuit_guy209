@@ -3,6 +3,10 @@ Aim of this file : implement ground filteration algorithm from a point cloud dat
 
 The git I got for this implementes ground filteration and non-ground filteration simultaneiously. <br/>
 https://github.com/lorenwel/linefit_ground_segmentation </br>
-using this I was able to segment out my ground and non-ground points of lidar-pointcloud data
+using this I was able to segment out my ground and non-ground points of lidar-pointcloud data</br>
 
+
+
+
+https://github.com/user-attachments/assets/ad0646bf-d896-4748-825d-435168b9aaec
 
