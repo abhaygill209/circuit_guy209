@@ -2,6 +2,6 @@ This repository was created as part of a PCB design project for the Robotics Clu
 </br>
 All the codes in this repository were created in Microchip Studios 7.0 and are compatable with Atmel's ATMEGA328p chips only. </br>
 </br>
-Proteus Simulation for PWM.c file:
+Proteus Simulation for PWM.c file:</br>
 https://github.com/user-attachments/assets/777bb597-f39b-4d03-aaa4-53379c180723
 
