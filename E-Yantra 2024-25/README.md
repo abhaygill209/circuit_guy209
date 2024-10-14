@@ -1,1 +1,2 @@
-This repository contains an implementation of a Single-Cycle RISC-V Processor based on the RISC-V ISA. The processor executes instructions from the RV32I base instruction set, which includes arithmetic, logical, load/store, and control flow instructions.
+This repository contains all the Tasks that my team is doing in Eyantra 2024-25 event. Currrently we are working on the Ecomender Bot which is a FPGA based problem statement. <br/> 
+
