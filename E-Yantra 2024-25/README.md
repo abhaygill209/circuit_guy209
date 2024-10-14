@@ -1,0 +1,1 @@
+This repository contains an implementation of a Single-Cycle RISC-V Processor based on the RISC-V ISA. The processor executes instructions from the RV32I base instruction set, which includes arithmetic, logical, load/store, and control flow instructions.
