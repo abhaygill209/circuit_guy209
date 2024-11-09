@@ -1,4 +1,4 @@
-
+// implementation of Dijkstra's algorithm in c where graph is stored in 1-d array. 
 /*
  * EcoMender Bot (EB): Task 2B Path Planner
  *
