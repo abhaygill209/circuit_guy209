@@ -40,8 +40,8 @@ plt.show()
 mono = mono.astype(np.int16)
 print(mono.dtype)
 write("/home/abhay/Desktop/EC-211(Analog Communication)/output.wav", rate, mono)
-start = 20*rate 
-end   = 25*rate 
+start = 13*rate 
+end   = 15*rate 
 extracted_mono = mono[start:end]
 time = np.arange(len(extracted_mono)) / rate
 write("/home/abhay/Desktop/EC-211(Analog Communication)/ext_output.wav", rate, extracted_mono)
